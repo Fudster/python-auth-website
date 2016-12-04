@@ -1,3 +1,5 @@
 # Python-auth-website
 
-Not sure what to put here yet.
+This is going to be a python based login system with roles.
+
+THIS IS NOT READY. Do NOT use for production
